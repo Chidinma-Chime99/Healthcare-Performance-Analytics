@@ -9,7 +9,7 @@ The analysis demonstrates how SQL Server Management Studio (SSMS) can be used to
 ---
 Dashboard Preview 
 
-![Dashboard Preview](SQL_Dashboard.PNG)
+![Dashboard Preview](SQL dashboard.PNG)
 
 ---
 
@@ -103,21 +103,22 @@ This repository contains the following project components:
 
 📂 Project Structure
 
-Healthcare-Performance-Analytics/
+Healthcare-Performance-Analytics
+
 │
-├── Healthcare_Analysis.sql
-│   
-│
-├── Healthcare_Performance_Documentation.pdf
+├── Healthcare Analysis.sql
 │   
 │
 ├── Healthcare_Performance_Dashboard.xlsx
 │   
 │
-├── Healthcare_Presentation.pdf
+├── Healthcare_Performance_Documentation.pdf
 │   
 │
-├── SQL_Capstone.PNG
+├── Healthcare_Performamce_Presentation.pdf
+│   
+│
+├── SQL dashboard.PNG
 │   
 │
 └── README.md
