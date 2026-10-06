@@ -9,7 +9,7 @@ The analysis demonstrates how SQL Server Management Studio (SSMS) can be used to
 ---
 Dashboard Preview 
 
-![Dashboard Preview](SQLdashboard.PNG)
+![Dashboard Preview](SQL_dashboard.PNG)
 
 ---
 
