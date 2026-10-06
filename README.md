@@ -7,6 +7,11 @@ This project analyzes healthcare data using SQL Server to uncover insights into 
 The analysis demonstrates how SQL Server Management Studio (SSMS) can be used to transform structured healthcare data into meaningful business and operational insights that can support informed decision-making.
 
 ---
+Dashboard Preview 
+
+![Dashboard Preview](SQL_Dashboard.PNG)
+
+---
 
 🎯 Business Questions
 
@@ -100,20 +105,20 @@ This repository contains the following project components:
 
 Healthcare-Performance-Analytics/
 │
-├── SQL/
-│   └── Healthcare_Capstone_Queries.sql
+├── Healthcare_Analysis.sql
+│   
 │
-├── Documentation/
-│   └── Healthcare_SQL_Capstone_Documentation.pdf
+├── Healthcare_Performance_Documentation.pdf
+│   
 │
-├── Dashboard/
-│   └── Healthcare_Dashboard.xlsx
+├── Healthcare_Performance_Dashboard.xlsx
+│   
 │
-├── Presentation/
-│   └── Healthcare_Capstone_Presentation.pdf
+├── Healthcare_Presentation.pdf
+│   
 │
-├── Images/
-│   └── dashboard_preview.png
+├── SQL_Capstone.PNG
+│   
 │
 └── README.md
 
